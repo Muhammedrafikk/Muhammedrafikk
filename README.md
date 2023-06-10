@@ -4,4 +4,4 @@
 #### TOTAL REPO VIEWS
 ![Visitor Count](https://profile-counter.glitch.me/Rafi/count.svg)
 
-<p style="font-size: 18px;"># Hello ,<a href="Hey" ><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="25px"></a> I'm Rafi&nbsp;</p>
+<p style="font-size: 20px;"># Hello ,<a href="Hey" ><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="25px"></a> I'm Rafi&nbsp;</p>

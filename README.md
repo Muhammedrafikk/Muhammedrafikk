@@ -1,5 +1,5 @@
 <div class="max-w-3xl mx-auto p-6 space-y-6 text-gray-800">
-  <h1 class="text-3xl font-bold">Muhammed Rafi</h1>
+  <h2 class="text-3xl font-bold">Muhammed Rafi</h2>
 
   <p class="text-base leading-relaxed">
     I am a Frontend Software Engineer with 1.5 years of experience in web development, specializing in 
@@ -12,8 +12,8 @@
   <div>
     <h3 class="text-lg font-semibold">Skills 🛠️</h3>
     <p class="text-base leading-relaxed">
-      Next.js, React.js, React Native, JavaScript, Tailwind CSS, HTML, CSS, Figma, Git, UI/UX, Responsive Design, 
-      ShadCN/UI, Headless UI, AI-powered UI integration, GitHub, VS Code, Cursor AI
+      Next.js, React.js, React Native, JavaScript, Tailwind CSS, HTML, SCSS, Figma, Git, UI/UX, Responsive Design, 
+      ShadCN/UI, GitHub, VS Code, Cursor AI
     </p>
   </div>
 

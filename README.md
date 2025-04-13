@@ -25,13 +25,4 @@
       </a>
     </p>
   </div>
-
-  <div>
-    <h3 class="text-lg font-semibold">GitHub</h3>
-    <p class="text-base">
-      🐙 <a href="https://github.com/your-github-username" class="text-blue-600 underline" target="_blank">
-        https://github.com/your-github-username
-      </a>
-    </p>
-  </div>
 </div>

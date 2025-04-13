@@ -6,7 +6,7 @@
   <strong>AI Frontend Engineer</strong>, integrating smart features into user interfaces. I am open to 
   <strong>remote opportunities</strong> and passionate about innovative projects that align with my skills. I work with 
   <strong>VS Code</strong> and <strong>Cursor AI</strong> as my primary development tools, and I take pride in writing 
-  clean, efficient, and loveable code.
+  clean, efficient
 </p>
 
 <h3>Skills</h3>

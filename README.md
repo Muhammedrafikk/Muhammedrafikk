@@ -9,6 +9,8 @@
   clean, efficient
 </p>
 
+<p><strong>React Native App Developer</strong>, building both smart web and mobile interfaces. </p>
+
 <h3>Skills</h3>
 <p>
   Next.js, React.js, JavaScript, Tailwind CSS, HTML, SCSS, Figma, Git, UI/UX, Responsive Design, ShadCN/UI, GitHub, VS Code, Cursor AI

@@ -1,6 +1,6 @@
 <h1>Muhammed Rafi</h1>
 
-<p>
+<p class="text-base leading-relaxed">
   I am a Frontend Software Engineer with 1.5 years of experience in web development, specializing in 
   <strong>Next.js, React.js, JavaScript, Tailwind CSS, and UI/UX design</strong>. I also explore opportunities as an 
   <strong>AI Frontend Engineer</strong>, integrating smart features into user interfaces. I am open to 

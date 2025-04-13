@@ -13,7 +13,7 @@
     <h3 class="text-lg font-semibold">Skills 🛠️</h3>
     <p class="text-base leading-relaxed">
       Next.js, React.js, React Native, JavaScript, Tailwind CSS, HTML, SCSS, Figma, Git, UI/UX, Responsive Design, 
-      ShadCN/UI, GitHub, VS Code, Cursor AI
+      ShadCN/UI, GitHub,  VS Code, Cursor AI
     </p>
   </div>
 

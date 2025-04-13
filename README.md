@@ -10,7 +10,7 @@
   <p class="text-base leading-relaxed"><strong>React Native App Developer</strong>, building both smart web and mobile interfaces. </p>
 
   <div>
-    <h3 class="text-lg font-semibold">Skills</h3>
+    <h3 class="text-lg font-semibold">Skills 🛠️</h3>
     <p class="text-base leading-relaxed">
       Next.js, React.js, React Native, JavaScript, Tailwind CSS, HTML, CSS, Figma, Git, UI/UX, Responsive Design, 
       ShadCN/UI, Headless UI, AI-powered UI integration, GitHub, VS Code, Cursor AI

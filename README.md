@@ -1,11 +1,10 @@
 <div class="max-w-3xl mx-auto p-6 space-y-6 text-gray-800">
   <h2 class="text-3xl font-bold">Muhammed Rafi</h2>
 
-  <p class="text-base leading-relaxed">
-    I am a Frontend Software Engineer with 1.5 years of experience in web development, specializing in 
-    <strong>Next.js, React.js, JavaScript, Tailwind CSS, and UI/UX design</strong>. I also explore opportunities as an 
-    <strong>AI Frontend Engineer</strong> I am open to <strong>remote opportunities</strong> and passionate about innovative projects that align with my skills. 
-  </p>
+<p class="text-base leading-relaxed">
+  I'm a Frontend Software Engineer with experience in <strong>Next.js, React.js, JavaScript, Tailwind CSS, and UI/UX design</strong>. I'm also exploring opportunities as an <strong>AI Frontend Engineer</strong> and open to <strong>remote opportunities</strong>.
+</p>
+
 
   <p class="text-base leading-relaxed"><strong>React Native App Developer</strong>, building both smart web and mobile interfaces. </p>
 

@@ -2,7 +2,7 @@
   <h2 class="text-3xl font-bold">Muhammed Rafi</h2>
 
 <p class="text-base leading-relaxed">
-  I'm a Frontend Software Engineer and Web Developer with experience in <strong>Next.js, React.js, JavaScript, Tailwind CSS, and UI/UX design</strong>. I'm also exploring opportunities as an <strong>AI Frontend Engineer</strong> and open to remote opportunities.
+  I'm a Frontend Software Engineer and Web Developer with experience in <strong>Next.js, React.js, JavaScript, Tailwind CSS, and UI designer</strong>. I'm also exploring opportunities as an <strong>AI Frontend Engineer</strong> and open to remote opportunities.
 </p>
 
 
